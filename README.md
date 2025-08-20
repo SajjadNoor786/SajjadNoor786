@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sajjad Noor 
+# 👋 Hi, I'm SajjadNoor786
 🚀 *Aspiring Data Analyst* | Passionate about turning raw data into actionable insights  
 
 ---
@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats  
 
-![Sajjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
+![SajjadNoor786 GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)  
 
 ---
