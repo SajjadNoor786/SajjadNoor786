@@ -11,8 +11,8 @@
 
 ## 📊 GitHub Stats  
 
-![SajjadNoor786 GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadali&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadali&layout=compact&theme=tokyonight)  
+![SajjadNoor786 GitHub stats](https://github-readme-stats.vercel.app/api?username=SajjadNoor786&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadNoor786&layout=compact&theme=tokyonight)  
 
 
 ---
