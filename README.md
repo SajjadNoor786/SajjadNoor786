@@ -43,10 +43,8 @@
 
 ## 📂 Featured Projects  
 
-[![CLI ATM Project](https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=cli-atm-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SajjadNoor786/cli-atm-project)
-[![CLI Guessing Number](https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=cli-guessing-number&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SajjadNoor786/cli-guessing-number)
-[![CLI Simple Calculator](https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=simple-calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SajjadNoor786/simple-calculator)
-[![Profile README](https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=SajjadNoor786&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SajjadNoor786/SajjadNoor786)
+[![employee-training-performance-tracker](https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=employee-training-performance-tracker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SajjadNoor786/employee-training-performance-tracker)
+[![student-result-excel](https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=student-result-excel&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SajjadNoor786/student-result-excel)
 
 ---
 
