@@ -44,7 +44,7 @@
 ## 📂 Featured Projects  
 
 [![employee-training-performance-tracker](https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=employee-training-performance-tracker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SajjadNoor786/employee-training-performance-tracker)
-[![student-result-excel](https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=student-result-excel&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SajjadNoor786/student-result-excel)
+[![Employee-Attendance-Salary-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=Employee-Attendance-Salary-Dashboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SajjadNoor786/Employee-Attendance-Salary-Dashboard)
 
 ---
 
