@@ -64,7 +64,7 @@
 
 
 
-## 📂 Featured Projects (Animated Grid)
+## 📂 Featured Projects
 
 <div align="center">
 
@@ -104,7 +104,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 </p>
 
-## 🧠 Highlighted Skills (Animated Icons)
+## 🧠 Highlighted Skills
 
 <div align="center">
 
