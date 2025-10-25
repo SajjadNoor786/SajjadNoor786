@@ -72,6 +72,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=Employee-Attendance-Salary-Dashboard&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&text_color=8B949E&icon_color=F8D866" alt="Employee Attendance Dashboard" />
 </a>
 
+<a href="https://github.com/SajjadNoor786/Pizza-Sales-Dashboard-in-Excel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadNoor786&repo=Pizza-Sales-Dashboard-in-Excel&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&text_color=8B949E&icon_color=F8D866" alt="Pizza Sales Dashboard" />
+</a>
+
 </div>
 
 <!-- Wavy Breaker -->
